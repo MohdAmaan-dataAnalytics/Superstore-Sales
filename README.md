@@ -61,7 +61,7 @@ The Power BI dashboard includes:
 - **Top 5 Loss-Making Products by Region** (Table)
 - **Interactive Slicers:** Year, Region, State
 
-![Dashboard Screenshot](SUPERSTORE SALES ANALYSIS.png)
+![Dashboard Screenshot](SUPERSTORE_SALES_ANALYSIS.png)
 
 ## 📁 Repository Structure
 ```text
